@@ -10,7 +10,6 @@ Also, sound effects and cell animations have been added.
 - Python 3.x
 - Tkinter (for GUI)
 - Pygame (for sound effects)
-
 ---
 
 ## How to use it?
